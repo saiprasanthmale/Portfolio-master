@@ -1,5 +1,5 @@
 # Portfolio-master
-This is a project
+It is a project
 portfolio-project
 #master
 # by M.sai prasanth
